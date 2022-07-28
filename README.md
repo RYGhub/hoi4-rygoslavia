@@ -1,1 +1,1 @@
-# hoi4-yugoslavia
+# hoi4-rygoslavia
