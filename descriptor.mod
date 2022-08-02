@@ -1,6 +1,6 @@
 name="Benvenuti in RYGoslavia!"
 picture="thumbnail.png"
-version="1.1.0"
+version="1.1.1"
 tags={
 	"Translation"
 }
